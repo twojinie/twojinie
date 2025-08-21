@@ -32,7 +32,7 @@ Currently, I am preparing for a career in **AI and Data Science** with a strong 
 
 ## 📫 Get in Touch
 - ✉️ Email: bestkyj11@naver.com
-- 💼 [LinkedIn](www.linkedin.com/in/yijink)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yijink/)  
 
 
 
