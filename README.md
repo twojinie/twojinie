@@ -2,9 +2,10 @@
 
 ✨ *"I believe AI can solve meaningful problems when combined with domain knowledge."*  
 
-🚀 **AI & Data Enthusiast | Job Seeker in AI/Data Science**  
-I am passionate about building data-driven solutions using **Machine Learning, Graph Neural Networks, and Explainable AI**.  
-Currently, I am preparing for a career in **AI and Data Science** with a strong focus on real-world applications.
+🚀 AI & Data Enthusiast | Job Seeker in AI/Data Science  
+I have experience working with **complex, research-driven data such as biological and chemical datasets** and applying AI tools to uncover meaningful insights.  
+My current focus is on leveraging **machine learning, graph neural networks, and explainable AI** to solve diverse real-world problems.  
+I believe my ability to **bridge analytical thinking with data-driven methods** makes me adaptable and well-prepared for AI roles across different domains.
 
 ---
 
