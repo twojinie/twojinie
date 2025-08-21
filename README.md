@@ -26,7 +26,7 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
 
 ## 🎓 Education & Experience
 - 🎓 Studying **Bioinformatics / AI** at KAIST (M.S. / B.S.)
-- 📑 Research experience in **Graph Neural Networks for biomedical data**  
+- 📑 Research experience in **Visible Neural Networks... etc for biomedical data**  
 - 🤝 Team projects in **data mining, recommender systems, and healthcare AI**
 
 ---
