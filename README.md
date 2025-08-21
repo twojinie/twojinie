@@ -9,7 +9,7 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 - **Python** – main programming language for data analysis, model building, and research prototyping  
 - **SQL** – querying and managing structured data 
 - **Matlab** – numerical analysis and scientific computing
@@ -18,20 +18,20 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - 🛒 [**E-commerce Product Return Prediction**](https://github.com/twojinie/E-commerce-Product-Return-Prediction)  
   Built a **Graph Neural Network (GraphSAGE)** model to predict order & product returns, outperforming traditional ML methods.  
 
 ---
 
-## 🎓 Education & Experience
-- 🎓 Studying **Bioinformatics / AI** at KAIST (M.S. / B.S.)
-- 📑 Research experience in **Visible Neural Networks... etc for biomedical data**  
-- 🤝 Team projects in **data mining, recommender systems, and healthcare AI**
+## Education & Experience
+-  Studying **Bioinformatics / AI** at KAIST (M.S. / B.S.)
+-  Research experience in **Visible Neural Networks... etc for biomedical data**  
+-  Team projects in **data mining, recommender systems, and healthcare AI**
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 - ✉️ Email: bestkyj11@naver.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yijink/)  
 
