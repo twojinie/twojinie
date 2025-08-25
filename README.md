@@ -32,7 +32,7 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
 ---
 
 ## Get in Touch
-- ✉️ Email: bestkyj11@naver.com / bestkyj11@kaist.ac.kr
+- ✉️ bestkyj11@naver.com / bestkyj11@kaist.ac.kr
 - 💼 [LinkedIn](https://www.linkedin.com/in/yijink/)  
 
 
