@@ -21,7 +21,10 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
 ## Featured Projects
 - 🛒 [**E-commerce Product Return Prediction**](https://github.com/twojinie/E-commerce-Product-Return-Prediction)  
   Built a **Graph Neural Network (GraphSAGE)** model to predict order & product returns, outperforming traditional ML methods.  
-
+- 💊 [**Drug-Drug Interaction Type Prediction**](https://github.com/twojinie/DDI-prediction-using-various-encoders-classifiers)  
+  Explored multiple **GNN encoders (aprGCN, bprGCN, GAT)** and classifiers (MLP, K-way, self-attention) to predict interaction types, with **GAT-MLP achieving the best performance**.  
+- 🍎 [**Your Personalized Food Recommender for Diseases**](https://github.com/twojinie/Your-Personalized-Food-Recommender-for-Diseases)  
+  Built a database linking **diseases, pathways, compounds, and foods**, enabling users to explore disease-related compounds and receive **evidence-based food recommendations**.
 ---
 
 ## Education & Experience
