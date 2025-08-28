@@ -25,6 +25,9 @@ I believe my ability to **bridge analytical thinking with data-driven methods** 
   Explored multiple **GNN encoders (aprGCN, bprGCN, GAT)** and classifiers (MLP, K-way, self-attention) to predict interaction types, with **GAT-MLP achieving the best performance**.  
 - 🍎 [**Your Personalized Food Recommender for Diseases**](https://github.com/twojinie/Your-Personalized-Food-Recommender-for-Diseases)  
   Built a database linking **diseases, pathways, compounds, and foods**, enabling users to explore disease-related compounds and receive **evidence-based food recommendations**.
+- 📑 **Ongoing M.S. Research – Visible Neural Networks for Therapeutic Discovery**
+  <br>
+  The model is designed to handle **highly imbalanced and sparse biological datasets**, aiming for **generalizable and robust therapeutic predictions**.
 ---
 
 ## Education & Experience
