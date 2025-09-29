@@ -17,7 +17,7 @@ I thrive on designing **interpretable, generalizable, and practical AI models**,
 ## Tech Stack
 - **Languages**: Python (main), SQL, Matlab, C++(basic)
 - **Libraries/Frameworks**: PyTorch, PyTorch Geometric, scikit-learn, Pandas, NumPy, RDKit, LaTeX
-- **ML/DL**: Graph Neural Networks (GraphSAGE, GAT, etc.), Recommender Systems, Explainable AI, LLM Embeddings (ChemBERTa, ESM-2), Multimodal AI
+- **ML/DL**: Graph Neural Networks (GraphSAGE, GAT, etc.), Recommender Systems, Explainable AI, LLM Fine-tuning, Multimodal AI ,, *keep updating*
 - **Other Skills**: Database Design (ER diagrams, SQL queries), Data Visualization, API Debugging & Integration, Technical Communication (English working proficiency)
 
 ---
