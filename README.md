@@ -3,37 +3,46 @@
 ✨ *"I believe AI can solve meaningful problems when combined with domain knowledge."*  
 
 🚀 AI & Data Enthusiast | Job Seeker in AI/Data Science  
-I have experience working with **complex, research-driven data such as biological and chemical datasets** and applying AI tools to uncover meaningful insights.  
-My current focus is on leveraging **machine learning, graph neural networks, and explainable AI** to solve diverse real-world problems.  
-I believe my ability to **bridge analytical thinking with data-driven methods** makes me adaptable and well-prepared for AI roles across different domains.
+I am an AI & Data Science enthusiast with experience **applying machine learning to diverse domains — from e-commerce to biomedical research.**
+I thrive on designing **interpretable, generalizable, and practical AI models**, and I enjoy solving problems where **data is complex, sparse, or imbalanced.**
+
+💡 My strength lies in:
+- **Learning quickly** → from SQL & DB design to GNNs, LLM embeddings, and multimodal AI
+- **Problem structuring** → defining tasks with real-world constraints (e.g., customer behavior, drug mechanisms)
+- **Building explainable AI** → models that deliver insights behind data
+- **Collaboration & communication** → bridging engineers, researchers, and domain experts through clear data insights
 
 ---
 
 ## Tech Stack
-- **Python** – main programming language for data analysis, model building, and research prototyping  
-- **SQL** – querying and managing structured data 
-- **Matlab** – numerical analysis and scientific computing
-- **Machine Learning / Deep Learning** – building predictive models, graph neural networks (GNNs), and explainable AI   
-- **English** – working proficiency (technical communication & collaboration)
+- **Languages**: Python (main), SQL, Matlab, C++(basic)
+- **Libraries/Frameworks**: PyTorch, PyTorch Geometric, scikit-learn, Pandas, NumPy, RDKit, LaTeX
+- **ML/DL**: Graph Neural Networks (GraphSAGE, GAT, etc.), Recommender Systems, Explainable AI, LLM Embeddings (ChemBERTa, ESM-2), Multimodal AI
+- **Other Skills**: Database Design (ER diagrams, SQL queries), Data Visualization, API Debugging & Integration, Technical Communication (English working proficiency)
 
 ---
 
-## Featured Projects
+## Featured Projects & Research
 - 🛒 [**E-commerce Product Return Prediction**](https://github.com/twojinie/E-commerce-Product-Return-Prediction)  
-  Built a **Graph Neural Network (GraphSAGE)** model to predict order & product returns, outperforming traditional ML methods.  
+  - Built a **GraphSAGE-based model** on a heterogeneous graph (customers–orders–products), achieving higher accuracy/AUROC than baselines.
 - 💊 [**Drug-Drug Interaction Type Prediction**](https://github.com/twojinie/DDI-prediction-using-various-encoders-classifiers)  
-  Explored multiple **GNN encoders (aprGCN, bprGCN, GAT)** and classifiers (MLP, K-way, self-attention) to predict interaction types, with **GAT-MLP achieving the best performance**.  
+  - Explored multiple **GNN encoders (aprGCN, bprGCN, GAT)** and classifiers (MLP, K-way, self-attention) to predict interaction types, with **GAT-MLP achieving the best performance**.  
 - 🍎 [**Your Personalized Food Recommender for Diseases**](https://github.com/twojinie/Your-Personalized-Food-Recommender-for-Diseases)  
-  Built a database linking **diseases, pathways, compounds, and foods**, enabling users to explore disease-related compounds and receive **evidence-based food recommendations**.
-- 📑 **Ongoing M.S. Research – Visible Neural Networks for Therapeutic Discovery**
-  <br>
-  The model is designed to handle **highly imbalanced and sparse biological datasets**, aiming for **generalizable and robust therapeutic predictions**.
+  - Designed a **relational DB** by parsing data from multiple DBs and implemented **SQL** queries for evidence-based **recommendations**.
+- 📑 **Ongoing M.S. Research**  
+  - Developed interpretable Visible Neural Networks (VNNs) powered by LLM-pretrained models.
+  - The model is designed to handle **highly imbalanced and sparse biological datasets**, aiming for **generalizable and robust therapeutic predictions**.
 ---
 
 ## Education & Experience
--  Studying **Bioinformatics / AI** at KAIST (M.S. / B.S.)
--  Research experience in **Visible Neural Networks... etc for biomedical data**  
--  Team projects in **data mining, recommender systems, and healthcare AI**
+-  Studying **AI / Informatics** at KAIST (M.S. / B.S.)
+-  Technical University of Munich (TUM), Electrical & Computer Engineering (2023 FW)
+
+---
+
+## Recognition
+- Dean’s List, KAIST College of Engineering (Top 3%)
+- Dean’s List, KAIST College of Life Science & Technology (Top 1–2%)
 
 ---
 
