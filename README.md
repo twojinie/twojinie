@@ -3,8 +3,10 @@
 ✨ *"I believe AI can solve meaningful problems when combined with domain knowledge."*  
 
 🚀 AI & Data Enthusiast | Job Seeker in AI/Data Science  
-I am an AI & Data Science enthusiast with experience **applying machine learning to diverse domains — from e-commerce to biomedical research.**
-My primary interest lies in **Data-efficient & Adaptive Learning / Human-centered Applications / Trustworthy AI**, and I **specialize in tackling challenges** where data is complex, sparse, or imbalanced.
+>I am an AI & Data Science enthusiast with experience **applying machine learning to diverse domains.**
+
+>My primary interest lies in **Data-efficient & Adaptive Learning / Human-centered Applications / Trustworthy AI**,
+>and I **thrive on solving challenging problems** where data is complex, sparse, or imbalanced.
 
 💡 My strength lies in:
 - **Learning quickly** → from SQL & DB design to GNNs, explainable AI, LLM fine-tuning, and multimodal AI
