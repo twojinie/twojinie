@@ -7,7 +7,7 @@ I am an AI & Data Science enthusiast with experience **applying machine learning
 I thrive on designing **interpretable, generalizable, and practical AI models**, and I enjoy solving problems where **data is complex, sparse, or imbalanced.**
 
 💡 My strength lies in:
-- **Learning quickly** → from SQL & DB design to GNNs, LLM embeddings, and multimodal AI
+- **Learning quickly** → from SQL & DB design to GNNs, explainable AI, LLM fine-tuning, and multimodal AI
 - **Problem structuring** → defining tasks with real-world constraints (e.g., customer behavior, drug mechanisms)
 - **Building explainable AI** → models that deliver insights behind data
 - **Collaboration & communication** → bridging engineers, researchers, and domain experts through clear data insights
