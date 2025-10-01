@@ -34,7 +34,7 @@
 - 🧬 [**Cancer Type Classification using Tokenized Genomic Mutations**](https://github.com/twojinie/Cancer-Type-Classification-using-Tokenized-Genomic-Mutations)
   - Transforms structured mutation information **into token sequences** and leverages **Transformer-based architectures (BigBird)** to capture long-range dependencies between mutations.
 - 📑 **Ongoing M.S. Research**  
-  - Developed interpretable Visible Neural Networks (VNNs) powered by LLM-pretrained models.
+  - Developed interpretable **Visible Neural Networks (VNNs)** powered by **LLM-pretrained models**.
   - The model is designed to handle **highly imbalanced and sparse biological datasets**, aiming for **generalizable and robust therapeutic predictions**.
 ---
 
